@@ -25,4 +25,4 @@ The main script (`main_analysis.py`) performs the following tasks:
 ## How to Run
 Make sure you have the required dependencies installed. Run the `main_analysis.py` script to execute the analysis.
 
-This project was part of the course Programming for Astrophysics & Astronomy at the Universiteit van Amsterdam (UvU), under supervision of Mark Snelders.
+This project was part of the course Programming for Astrophysics & Astronomy at the Universiteit van Amsterdam (UvA), under supervision of Mark Snelders.
