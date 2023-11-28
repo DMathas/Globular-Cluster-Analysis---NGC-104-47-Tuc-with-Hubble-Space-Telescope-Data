@@ -22,9 +22,6 @@ The main script (`main_analysis.py`) performs the following tasks:
 6. Calculates and plots the stellar density profile of the cluster.
 7. Fits the King model to the stellar density data and plots the results.
 
-## How to Run
-Make sure you have the required dependencies installed. Run the `main_analysis.py` script to execute the analysis.
-
 ## Additional Notes:
 
 This project was part of the course Programming for Astrophysics & Astronomy at the Universiteit van Amsterdam (UvA), under supervision of Mark Snelders.
